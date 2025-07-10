@@ -1,0 +1,51 @@
+body {
+  background: #121212;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 1rem;
+}
+
+h1 {
+  color: #00ff88;
+}
+
+#plugins {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.plugin {
+  background: #1e1e1e;
+  border-radius: 10px;
+  padding: 1rem;
+  width: 250px;
+  text-align: left;
+  border: 1px solid #333;
+}
+
+.plugin h2 {
+  color: #00ff88;
+  font-size: 1.2rem;
+  margin-top: 0;
+}
+
+.plugin p {
+  font-size: 0.9rem;
+  margin: 0.5rem 0;
+}
+
+.plugin a {
+  display: inline-block;
+  margin-top: 0.5rem;
+  color: white;
+  background: #00ff88;
+  padding: 0.4rem 1rem;
+  border-radius: 5px;
+  text-decoration: none;
+}
+    
