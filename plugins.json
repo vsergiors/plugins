@@ -3,18 +3,18 @@
     "nombre": "EssentialsX",
     "version": "1.0.0",
     "descripcion": "Traducción al español de EssentialsX, el plugin esencial para servidores de Minecraft. Incluye comandos como /home, /spawn, /warp, /tpa y mucho más, con mensajes 100% en español.",
-    "archivo": "plugins/EssentialsX.zip"
+    "archivo": "EssentialsX.zip"
   },
   {
     "nombre": "Staff Plus Plus",
     "version": "1.0.0",
     "descripcion": "Traducción al español de Staff Plus PLus, el plugin  de moderacion esencial para servidores de Minecraft. Incluye comandos como /staff, /sc, /freeze, /rc y mucho más, con mensajes 100% en español.",
-    "archivo": "plugins/Staff++.zip"
+    "archivo": "Staff++.zip"
   },
   {
     "nombre": "TAB",
     "version": "1.0.0",
     "descripcion": "Traducción al español de TAB. Mensajes 100% en español.",
-    "archivo": "plugins/TAB.zip"
+    "archivo": "TAB.zip"
   }
 ]
